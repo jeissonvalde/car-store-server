@@ -1,0 +1,42 @@
+[
+  {
+    "id": "db-c-01",
+    "name": "Renault 2022",
+    "model": 1994,
+    "description": "",
+    "reaction": "like",
+    "stock": 200
+  },
+  {
+    "id": "db-c-02",
+    "name": "Renault 2022",
+    "model": 1994,
+    "description": "",
+    "reaction": "like",
+    "stock": 200
+  },
+  {
+    "id": "db-c-03",
+    "name": "Renault 2022",
+    "model": 1994,
+    "description": "",
+    "reaction": "like",
+    "stock": 200
+  },
+  {
+    "id": "db-c-04",
+    "name": "Renault 2022",
+    "model": 1994,
+    "description": "",
+    "reaction": "like",
+    "stock": 200
+  },
+  {
+    "id": "db-c-05",
+    "name": "Renault 2022",
+    "model": 1994,
+    "description": "",
+    "reaction": "like",
+    "stock": 200
+  }
+]
