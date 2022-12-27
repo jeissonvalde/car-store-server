@@ -3,3 +3,7 @@ build
 package-lock.json
 private
 # tsc --init
+
+# Node -v. nvm ls available
+# nvm install 16.18.1
+# nvm use 16.18.1
